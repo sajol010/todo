@@ -1,0 +1,9 @@
+Setup instruction
+---------------------
+1. firstly, create a database named webdev_todo
+2. import the sql file that contains in this directory. 
+3. open src/Database.php file. and fillup database credentials. 
+
+
+
+Note:- I have used vuejs cdn. so, please ensure your internet connection even if you run it in locally. 
